@@ -43,7 +43,7 @@
 <p>To install the Power Quality Analyzer, follow these steps:</p>
 
 <ol>
-<li>Clone the repository using Git: <code>git clone (link unavailable)</code></li>
+<li>Clone the repository using Git: <code>git clone https://github.com/muhammadumermemon/Power-Quality-Analyzer.git</code></li>
 <li>Navigate to the project directory: <code>cd Power-Quality-Analyzer</code></li>
 <li>Compile the Java code: <code>javac PowerQualityAnalyzer.java</code></li>
 <li>Run the Java application: <code>java PowerQualityAnalyzer</code></li>
